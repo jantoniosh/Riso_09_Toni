@@ -20,6 +20,7 @@ function setup() {
     posA_y = height / 4;
     posB_x = width * 0.75;
     posB_y = height / 4;
+    
     posC_x = width / 4;
     posC_y = height * 0.75;
     size = 500;
